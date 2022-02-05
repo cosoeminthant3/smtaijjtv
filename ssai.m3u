@@ -25,3 +25,15 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network-name="Asian Food Network" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/25016_afn channel.jpg" group-title="Asian Food Network",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Star World HD-name="Star World HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/44340_starworld channel.png" group-title="Star World HD",Star World HD
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="Star Movies HD-name="Star Movies HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/35263_starworld movie.png" group-title="Star Movies HD",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX-name="CINEMAX" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/27270_Cinemax.jpg" group-title="CINEMAX",CINEMAX
+http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="MCS Myanmar-name="MCS Myanmar" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/33459_MCS channel.jpg" group-title="MCS Myanmar",MCS Myanmar
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-id="Mahar Bawdi-name="Mahar Bawdi" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/16601_mahar bawdi logo.jpg" group-title="Mahar Bawdi",Mahar Bawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="MRTV-4-name="MRTV-4" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/5489_mrtv4.jpg" group-title="MRTV-4",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
