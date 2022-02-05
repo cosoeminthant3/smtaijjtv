@@ -5,7 +5,7 @@ https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southea
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="1HDMusics-name="1HDMusics" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/66553_1HDMusic.jpg" group-title="1HDMusics",1HDMusics
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u
-#EXTINF:-1 tvg-id="Flik HD-name="Flik HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/26160_Flik HD" group-title="Flik HD",Flik HD
+#EXTINF:-1 tvg-id="Flik HD-name="Flik HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/26160_Flik HD.jpg" group-title="Flik HD",Flik HD
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="True Premier HD1-name="True Premier HD1" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/51831_true vision 1.png" group-title="True Premier HD1",True Premier HD1
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
