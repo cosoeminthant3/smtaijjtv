@@ -55,4 +55,23 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="MMA TV-name="MMA TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/62259_MMATV2.png" group-title="MMA TV",MMA TV
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-
+#EXTINF:-1 tvg-id="MVM-name="MVM" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/58265_MVM myanmar.jpg" group-title="MVM",MVM
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="pluto.tv-name="pluto.tv" tvg-logo="https://scoopbytee.gumlet.net/wp-content/uploads/2020/03/plutotv.jpg?compress=true&quality=80&w=700&dpr=1.0" group-title="pluto.tv",pluto.tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1 tvg-id="Mahar-TV-name="Mahar-TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/13960_mahar logo.jpg" group-title="Mahar-TV",Mahar-TV
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-id="MNTV-name="MNTV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/47480_mntv logo.jpg" group-title="MNTV",MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="tvN Channel-name="tvN Channel" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/8105_tvN ch.jpg" group-title="tvN Channel",tvN Channel
+https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=1b85de6e347deeb7dfbfc589c5b57345
+#EXTINF:-1 tvg-id="Tennis Channel-name="Tennis Channel" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/21323_Tennis channel.jpg" group-title="Tennis Channel",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="One Golf-name="One Golf" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/8030_one golf channel.jpg" group-title="One Golf",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony SIX HD-name="Sony SIX HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/89490_sony six.jpg" group-title="Sony SIX HD",Sony SIX HD
+http://live.flixhub.net:80/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="Sony TEN 1HD-name="Sony TEN 1HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/77156_sony ten 1.jpg" group-title="Sony TEN 1HD",Sony TEN 1HD
+http://live.flixhub.net:80/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="CGTN-name="CGTN" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/21818_cgtn channel.jpg" group-title="CGTN",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
