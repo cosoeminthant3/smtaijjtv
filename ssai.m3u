@@ -43,3 +43,16 @@ https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/kT82hHjUrcTuBm8vjO-vw8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD-name="ZEE TV HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/76656_zeetv.png" group-title="ZEE TV HD",ZEE TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CGTN-name="CGTN" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/21818_cgtn channel.jpg" group-title="CGTN",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY-name="DISCOVERY" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/30862_disc logo.png" group-title="DISCOVERY",DISCOVERY
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BBC News-name="BBC News" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/35350_BBC News.jpg" group-title="BBC News",BBC News
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="NHK World-name="NHK World" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/60878_NHK World.jpg" group-title="NHK World",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="KBS 1-name="KBS 1" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/46226_kbs1.jpg" group-title="KBS 1",KBS 1
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="MMA TV-name="MMA TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/62259_MMATV2.png" group-title="MMA TV",MMA TV
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+
