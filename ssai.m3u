@@ -39,3 +39,7 @@ https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southea
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bein Sport-name="Bein Sport" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/84731_sptv4.jpg" group-title="Bein Sport",Bein Sport
 https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/kT82hHjUrcTuBm8vjO-vw8Lt3lrnjRPjXUqiS1UtySwr1TA-iJrXye7lErHoCy4lL1ZPTqEEDdhg3R_FUYIEdQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8
+#EXTINF:-1 tvg-id="ZEE Cinema HD-name="ZEE Cinema HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/58393_zeecinema hs.png" group-title="ZEE Cinema HD",ZEE Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD-name="ZEE TV HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/76656_zeetv.png" group-title="ZEE TV HD",ZEE TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
