@@ -91,3 +91,11 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 https://stream-01.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeH6th4ZEnQj5291C77-ZYxo)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1
 #EXTINF:-1 tvg-id="Channel K-name="Channel K" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/89836_channel k.jpg" group-title="Channel K",Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="MTV Biggest Pop-name="MTV Biggest Pop" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/91375_biggest pop channel.jpg" group-title="MTV Biggest Pop",MTV Biggest Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="MTV Yo!-name="MTV Yo!" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/26405_mtv yo channel.jpg" group-title="MTV Yo!",MTV Yo!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-id="BBC Earth-name="BBC Earth" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/44887_bbc earth channel.jpg" group-title="BBC Earth",BBC Earth
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Asian Food Network-name="Asian Food Network" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/25016_afn channel.jpg" group-title="Asian Food Network",Asian Food Network
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
