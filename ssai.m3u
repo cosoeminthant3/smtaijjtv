@@ -89,3 +89,5 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:-1 tvg-id="DVB TV-name="DVB TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/42306_DVB News.jpg" group-title="DVB TV",DVB TV
 https://stream-01.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeH6th4ZEnQj5291C77-ZYxo)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1
+#EXTINF:-1 tvg-id="Channel K-name="Channel K" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/89836_channel k.jpg" group-title="Channel K",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
