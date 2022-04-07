@@ -75,3 +75,17 @@ http://live.flixhub.net:80/hls/sonysix.m3u8
 http://live.flixhub.net:80/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-id="CGTN-name="CGTN" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/21818_cgtn channel.jpg" group-title="CGTN",CGTN
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="HBO Family-name="HBO Family" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/6441_HBO Family.jpg" group-title="HBO Family",HBO Family
+http://f4.tvxweb.net:8082/24265/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO Signature-name="HBO Signature" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/33593_HBO Signature.jpg" group-title="HBO Signature",HBO Signature
+http://f4.tvxweb.net:8082/24263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO Hits-name="HBO Hits" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/85295_HBO Hits.jpg" group-title="HBO Hits",HBO Hits
+http://f4.tvxweb.net:8082/24264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MOVIE SPHERE-name="MOVIE SPHERE" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/87984_MOVIE SPHERE CH.jpg" group-title="MOVIE SPHERE",MOVIE SPHERE
+http://moviesphere-roku.amagi.tv:80/playlist720lp.m3u8
+#EXTINF:-1 tvg-id="HBO HD-name="HBO HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/93205_HBO HD.jpg" group-title="HBO HD",HBO HD
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="VOA MM-name="VOA MM" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/4437_voa.jpg" group-title="VOA MM",VOA MM
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
+#EXTINF:-1 tvg-id="DVB TV-name="DVB TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/42306_DVB News.jpg" group-title="DVB TV",DVB TV
+https://stream-01.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeH6th4ZEnQj5291C77-ZYxo)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1
