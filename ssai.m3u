@@ -103,3 +103,9 @@ https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bein Sport Premium 1-name="Bein Sport Premium 1" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/73532_BSP1 CH.jpg" group-title="Bein Sport Premium 1",Bein Sport Premium 1
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VH+-name="VH+" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/62706_vh+ ch.jpg" group-title="VH+",VH+
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="Zing HD-name="Zing HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/19030_zing hd.jpg" group-title="Zing HD",Zing HD
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
+#EXTINF:-1 tvg-id="Star Plus HD-name="Star Plus HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/49729_star +.jpg" group-title="Star Plus HD",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
