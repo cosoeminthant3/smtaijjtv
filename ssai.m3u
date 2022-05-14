@@ -113,3 +113,7 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
 #EXTINF:-1 tvg-id="Colors HD-name="Colors HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/90248_Colors HD.jpg" group-title="Colors HD",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="Star Sport Select 2-name="Star Sport Select 2" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/53044_starsport sel2 ch.jpg" group-title="Star Sport Select 2",Star Sport Select 2
+http://208.86.19.13:81/737.stream/index.m3u8
+#EXTINF:-1 tvg-id="Chef Champion-name="Chef Champion" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/93759_chef champion ch.jpg" group-title="Chef Champion",Chef Champion
+https://rpn1.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
