@@ -109,3 +109,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 #EXTINF:-1 tvg-id="Star Plus HD-name="Star Plus HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/49729_star +.jpg" group-title="Star Plus HD",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PBS Kids-name="PBS Kids" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/95847_pbs kids ch.jpg" group-title="PBS Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
+#EXTINF:-1 tvg-id="Colors HD-name="Colors HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/90248_Colors HD.jpg" group-title="Colors HD",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
