@@ -99,3 +99,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network-name="Asian Food Network" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/25016_afn channel.jpg" group-title="Asian Food Network",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Bein Sport Premium 2-name="Bein Sport Premium 2" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/51223_bein pr 2.jpg" group-title="Bein Sport Premium 2",Bein Sport Premium 2
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bein Sport Premium 1-name="Bein Sport Premium 1" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/73532_BSP1 CH.jpg" group-title="Bein Sport Premium 1",Bein Sport Premium 1
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
