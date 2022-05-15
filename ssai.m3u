@@ -133,4 +133,16 @@ http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sport Premium 3-name="Bein Sport Premium 3" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/18924_bein pr 3.jpg" group-title="Bein Sport Premium 3",Bein Sport Premium 3
 http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EBS Kids-name="EBS Kids" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/50900_EBS kids ch.jpg" group-title="EBS Kids",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w481041099.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports +-name="Setanta Sports +" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/44432_setanta sports +.png.jpg" group-title="Setanta Sports +",Setanta Sports +
+https://srv01.cdnapp.top/setantaplusukraina/index.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 2-name="Setanta Sports 2" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/28522_Setanta Sports 2 ch.jpg" group-title="Setanta Sports 2",Setanta Sports 2
+https://srv01.cdnapp.top/setanta2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports 1-name="Setanta Sports 1" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/84005_setanta sports 1 ch.png.jpg" group-title="Setanta Sports 1",Setanta Sports 1
+https://srv01.cdnapp.top/setanta1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="30ATV Music-name="30ATV Music" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/60838_30atv ch.jpg" group-title="30ATV Music",30ATV Music
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:-1 tvg-id="BEK Sport-name="BEK Sport" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/5836_BEK Sport ch.jpg" group-title="BEK Sport",BEK Sport
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/89b077e6_1_1620000/chunklist.m3u8
 
