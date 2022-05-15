@@ -127,4 +127,10 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="ZEE Cinema HD-name="ZEE Cinema HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/32954_zeecinema hs.png" group-title="ZEE Cinema HD",ZEE Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD-name="ZEE TV HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/43068_zeetv.png" group-title="ZEE TV HD",ZEE TV HD
+http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY MAX-name="SONY MAX" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/79150_sony max ch.jpg" group-title="SONY MAX",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Sport Premium 3-name="Bein Sport Premium 3" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/18924_bein pr 3.jpg" group-title="Bein Sport Premium 3",Bein Sport Premium 3
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 
