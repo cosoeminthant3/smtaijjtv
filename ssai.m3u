@@ -117,3 +117,14 @@ http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 http://208.86.19.13:81/737.stream/index.m3u8
 #EXTINF:-1 tvg-id="Chef Champion-name="Chef Champion" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/93759_chef champion ch.jpg" group-title="Chef Champion",Chef Champion
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KIX HD-name="KIX HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/79848_KIX channel.jpg" group-title="KIX HD",KIX HD
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Thai 3D Channel-name="Thai 3D Channel" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/17658_thairath tv.jpg" group-title="Thai 3D Channel",Thai 3D Channel
+http://live.thairath.co.th:80/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="UFC 3-name="UFC 3" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/86055_ufc 3 channel.jpg" group-title="UFC 3",UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="CNA News-name="CNA News" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/56787_CNA News.jpg" group-title="CNA News",CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="ZEE Cinema HD-name="ZEE Cinema HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/32954_zeecinema hs.png" group-title="ZEE Cinema HD",ZEE Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/playlist.m3u8
+
