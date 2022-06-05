@@ -145,4 +145,13 @@ https://srv01.cdnapp.top/setanta1/tracks-v1a1/mono.m3u8
 https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 tvg-id="BEK Sport-name="BEK Sport" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/5836_BEK Sport ch.jpg" group-title="BEK Sport",BEK Sport
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/89b077e6_1_1620000/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="Sony TEN 2HD-name="Sony TEN 2HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/29206_sony ten 2.jpg" group-title="Sony TEN 2HD",Sony TEN 2HD
+http://208.86.19.13:81/712.stream/index.m3u8
+#EXTINF:-1 tvg-id="Sony TEN 3HD-name="Sony TEN 3HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/97355_sony ten 3.jpg" group-title="Sony TEN 3HD",Sony TEN 3HD
+http://208.86.19.13:81/713.stream/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsia-name="DiscoveryAsia" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/86706_discovery asia channel.png" group-title="DiscoveryAsia",DiscoveryAsia
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="NEWSMAX-name="NEWSMAX" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/10149_newsmax.png" group-title="NEWSMAX",NEWSMAX
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/1280x720_2780800/chunklist.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 5-name="Bein Sport 5" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/64474_tennis B5.jpg" group-title="Bein Sport 5",Bein Sport 5
+http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
