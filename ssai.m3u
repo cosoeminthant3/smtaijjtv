@@ -155,3 +155,7 @@ https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/1280x720_2780800/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bein Sport 5-name="Bein Sport 5" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/64474_tennis B5.jpg" group-title="Bein Sport 5",Bein Sport 5
 http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 7-name="Bein Sport 7" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/15020_Tennis B7.jpg" group-title="Bein Sport 7",Bein Sport 7
+http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV-name="Real Madrid TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/45986_Real Madrid TV.jpg" group-title="Real Madrid TV",Real Madrid TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
