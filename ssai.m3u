@@ -159,3 +159,9 @@ http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
 http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV-name="Real Madrid TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/45986_Real Madrid TV.jpg" group-title="Real Madrid TV",Real Madrid TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-id="Channel 9-name="Channel 9" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/39081_channel 9 hd.jpg" group-title="Channel 9",Channel 9
+https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDY6MjAgUE0maGFzaF92YWx1ZT1XeVNiRmx6OTVuK2Mxemg5Nlp1NFJnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTE1
+#EXTINF:-1 tvg-id="Myanmar Cast-name="Myanmar Cast" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/31987_myanmar cast.jpg" group-title="Myanmar Cast",Myanmar Cast
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-id="Channel Me-name="Channel Me" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/80960_channel me hd.jpg" group-title="Channel Me",Channel Me
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDk6NDggUE0maGFzaF92YWx1ZT14bmFGNVhHRWlmS3Z0eEFyVW44R293PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI1
