@@ -171,3 +171,10 @@ http://ranapk.cf/cdn/play-31/playlist.m3u8
 http://ranapk.cf/cdn/play-32/playlist.m3u8
 #EXTINF:-1 tvg-id="BT Sport 3 HD-name="BT Sport 3 HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/18370_BT Sport 3.png" group-title="BT Sport 3 HD",BT Sport 3 HD
 http://ranapk.cf/cdn/play-33/playlist.m3u8
+#EXTINF:-1 tvg-id="SUN TV HD-name="SUN TV HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/96468_suntv.png" group-title="SUN TV HD",SUN TV HD
+http://208.86.19.13:81/903.stream/index.m3u8
+#EXTINF:-1 tvg-id="Vijay TV (Tamil)-name="Vijay TV (Tamil)" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/31575_vijay tv.jpg" group-title="Vijay TV (Tamil)",Vijay TV (Tamil)
+http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="Euro News English-name="Euro News English" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/53084_euro news english.jpg" group-title="Euro News English",Euro News English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
+
