@@ -177,4 +177,5 @@ http://208.86.19.13:81/903.stream/index.m3u8
 http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="Euro News English-name="Euro News English" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/53084_euro news english.jpg" group-title="Euro News English",Euro News English
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
-
+#EXTINF:-1 tvg-id="Myanmar VS Vietnam-name="Myanmar VS Vietnam" tvg-logo="https://i.ytimg.com/vi/AIOkxPGED-U/maxresdefault.jpg" group-title="Myanmar VS Vietnam",Myanmar VS Vietnam
+https://livestream-2.socialstreaming.tv/live/62c7d2c4ee629b001d1677ec/62c7d2c4ee629b001d1677ec.m3u8
