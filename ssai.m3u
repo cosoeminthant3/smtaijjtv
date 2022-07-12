@@ -179,3 +179,5 @@ http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
 #EXTINF:-1 tvg-id="Nurnberg VS Arsenal-name="Nurnberg VS Arsenal" tvg-logo="https://www.fullmatchsoccer.com/wp-content/uploads/2022/07/Nurnberg-vs-Arsenal.jpg" group-title="Nurnberg VS Arsenal",Nurnberg VS Arsenal
 https://pullalilive.livnvess.com/live/stream-112129.m3u8?auth_key=1657315815-0-0-bc2733033f03948f870ab56a9caa0f0c
+#EXTINF:-1 tvg-id="Liverpool VS Man United-name="Liverpool VS Man United" tvg-logo="https://img.asmedia.epimg.net/resizer/ZhKRzX--7ShQf45WNZ13DF2umok=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/CKSNTYK535FNFH7PK4U7QTNNWU.jpg" group-title="Liverpool VS Man United",Liverpool VS Man United
+https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8
